@@ -1,8 +1,8 @@
 -- Creating the database
-CREATE DATABASE alx_book_store;
+CREATE DATABASE ALX_BOOK_STORE;
 
 -- Using the database
-USE alx_book_store;
+USE ALX_BOOK_STORE;
 
 -- Creating the Authors table
 CREATE TABLE Authors (
